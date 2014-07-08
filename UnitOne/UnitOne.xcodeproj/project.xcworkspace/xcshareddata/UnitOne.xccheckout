@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9892E37C-9F5D-4544-92B4-BF638B9FCB08</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UnitOne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F7C74EE-36E3-43EE-AD63-0F908F289337</key>
+		<string>https://github.com/kingundertree/CLearn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UnitOne/UnitOne.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F7C74EE-36E3-43EE-AD63-0F908F289337</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kingundertree/CLearn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F7C74EE-36E3-43EE-AD63-0F908F289337</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F7C74EE-36E3-43EE-AD63-0F908F289337</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C_Learn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
